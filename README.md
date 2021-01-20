@@ -8,3 +8,9 @@ Instead of copy paste the whole code from the tutorial, I took the initiative to
 * change the column grid from Numeric (0,1,2) to Alphabet (A,B,C)
 * using colorama library, add color of the win message correspond to the player's color (eg. player1 **GREEN**, player2 **MAGENTA**)
 * refactor code and add documentation and comments
+
+## Project Takeaway
+* how to install and use package (itertools, colorama) from pip
+* Built-in Functions, such as reversed(), enumerate(), range()
+* Loops, Functions, Exceptions
+* naming conventions for Function and Variable Names: underscore [def this_is_function(), my_variable]
